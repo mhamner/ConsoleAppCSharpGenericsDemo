@@ -1,0 +1,7 @@
+C:\Users\mark.hamner\source\repos\ConsoleAppCSharpGenericsDemo\ConsoleAppCSharpGenericsDemo\obj\Debug\ConsoleAppCSharpGenericsDemo.csprojAssemblyReference.cache
+C:\Users\mark.hamner\source\repos\ConsoleAppCSharpGenericsDemo\ConsoleAppCSharpGenericsDemo\obj\Debug\ConsoleAppCSharpGenericsDemo.csproj.CoreCompileInputs.cache
+C:\Users\mark.hamner\source\repos\ConsoleAppCSharpGenericsDemo\ConsoleAppCSharpGenericsDemo\bin\Debug\ConsoleAppCSharpGenericsDemo.exe.config
+C:\Users\mark.hamner\source\repos\ConsoleAppCSharpGenericsDemo\ConsoleAppCSharpGenericsDemo\bin\Debug\ConsoleAppCSharpGenericsDemo.exe
+C:\Users\mark.hamner\source\repos\ConsoleAppCSharpGenericsDemo\ConsoleAppCSharpGenericsDemo\bin\Debug\ConsoleAppCSharpGenericsDemo.pdb
+C:\Users\mark.hamner\source\repos\ConsoleAppCSharpGenericsDemo\ConsoleAppCSharpGenericsDemo\obj\Debug\ConsoleAppCSharpGenericsDemo.exe
+C:\Users\mark.hamner\source\repos\ConsoleAppCSharpGenericsDemo\ConsoleAppCSharpGenericsDemo\obj\Debug\ConsoleAppCSharpGenericsDemo.pdb
